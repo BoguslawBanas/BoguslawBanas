@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Bogusław Banaś</h1>
 <h3 align="center">A Computer Science student who is very into programming.</h3>
 
